@@ -11,6 +11,7 @@ PPG (photoplethysmogram) – tracks blood flow using a light sensor
  This graph shows:
 SBP (Systolic): Higher line (top value when heart pumps)
 DBP (Diastolic): Lower line (resting value)
+
 <img width="571" height="437" alt="625e4f23-7be5-45b2-8ed5-b6be1739ccfa" src="https://github.com/user-attachments/assets/5ed385de-009e-4ad3-b5c5-693924472cb2" />
 
  process :
