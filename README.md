@@ -8,12 +8,11 @@ ECG (electrocardiogram) – tells us about the heart’s electrical activity
 PPG (photoplethysmogram) – tracks blood flow using a light sensor
 1. ECG, PPG, and BP Signals
 <img width="552" height="418" alt="06826db1-aa6c-4611-811d-0a1de94d3a30" src="https://github.com/user-attachments/assets/0542bf8c-87a6-4e39-8d74-513d1becbf19" />
+<img width="571" height="437" alt="625e4f23-7be5-45b2-8ed5-b6be1739ccfa" src="https://github.com/user-attachments/assets/5ed385de-009e-4ad3-b5c5-693924472cb2" />
+ 
  This graph shows:
 SBP (Systolic): Higher line (top value when heart pumps)
 DBP (Diastolic): Lower line (resting value)
-
-<img width="571" height="437" alt="625e4f23-7be5-45b2-8ed5-b6be1739ccfa" src="https://github.com/user-attachments/assets/5ed385de-009e-4ad3-b5c5-693924472cb2" />
-
  process :
 Loaded the data
 The dataset has ECG, PPG, and real blood pressure values (SBP and DBP). I used .mat or .npy files depending on the format.
