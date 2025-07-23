@@ -36,12 +36,10 @@ Linear Regression
 
 <img width="1337" height="547" alt="b0585e84-2241-468e-a275-2a67c3a955de" src="https://github.com/user-attachments/assets/469f27b2-3ef5-4fba-895e-aaa72e4783f4" />
 
-
 SVR (Support Vector Regression)
 
 Random Forest Regressor
-
-
+ 
 
 These models tried to learn the connection between the ECG+PPG features and actual BP values.
 Evaluated the models
